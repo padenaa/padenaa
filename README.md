@@ -1,8 +1,8 @@
 ### Hi it's Padena 👋
 
-🌱 I’m a software engineering student at the University of Waterloo 
+🌱 I’m currently a software engineering student at the University of Waterloo 
 
-👩‍💻 I was previously a Software Developer intern at TD and participated in Google CSSI!
+👩‍💻 I have previously been a Software Developer intern at TD Bank and participated in Google CSSI!
 
 🔭 I’m currently looking for Winter 2023 internships
 
