@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi it's Padena 👋
+
+🌱 I’m a software engineering student at the University of Waterloo 
+
+👩‍💻 I was previously a Software Developer at TD and participated in Google CSSI!
+
+🔭 I’m currently looking for Winter 2023 internships
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Padena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padena-rasouli)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padenaa&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **padenaa/padenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
