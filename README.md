@@ -2,7 +2,7 @@
 
 🌱 I’m a software engineering student at the University of Waterloo 
 
-👩‍💻 I was previously a Software Developer at TD and participated in Google CSSI!
+👩‍💻 I was previously a Software Developer intern at TD and participated in Google CSSI!
 
 🔭 I’m currently looking for Winter 2023 internships
 
