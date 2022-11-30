@@ -4,7 +4,7 @@
 
 👩‍💻 I have previously been a Software Developer intern at TD Bank and participated in Google CSSI!
 
-🔭 I’m currently looking for Winter 2023 internships
+🔭 Starting January, I will be working at AMD as a DevOps Software Developer Intern
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Padena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padena-rasouli)
 
