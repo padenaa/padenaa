@@ -2,9 +2,9 @@
 
 🌱 I’m a software engineering student at the University of Waterloo 
 
-👩‍💻 I have previously been a Software Developer intern at TD Bank and participated in Google CSSI!
+👩‍💻 I have previously interned at AMD and TD Bank as well as participated in Google CSSI!
 
-🔭 Starting January, I will be working at AMD as a DevOps Software Developer Intern
+🔭 I'm seeking internship opportunities for Fall 2023 and Summer 2024!
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Padena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padena-rasouli)
 
