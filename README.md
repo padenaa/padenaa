@@ -2,9 +2,9 @@
 
 🌱 I’m a software engineering student at the University of Waterloo 
 
-👩‍💻 I have previously interned at AMD, Bell Canada, and TD Bank as well as participated in Google CSSI!
+🔭 I will be an SWE Intern at Microsoft in Summer 2024!
 
-🔭 I'm seeking internship opportunities for Summer 2024!
+👩‍💻 I have previously interned at AMD, Bell Canada, and TD Bank as well as participated in Google CSSI!
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Padena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padena-rasouli)
 
