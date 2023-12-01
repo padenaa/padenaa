@@ -2,7 +2,7 @@
 
 🌱 I’m a software engineering student at the University of Waterloo 
 
-🔭 I will be an SWE Intern at Microsoft in Summer 2024!
+🔭 I will be a SWE Intern at Microsoft in Summer 2024!
 
 👩‍💻 I have previously interned at AMD, Bell Canada, and TD Bank as well as participated in Google CSSI!
 
